@@ -23,7 +23,25 @@ This project requires the following Python libraries:
 - ipywidgets
 - jupyter
 
-ClimateInformatics/ │ ├── data/ │   ├── data9724.csv.gz │   ├── variable_descriptions.csv │ ├── src/ │   ├── notebooks/ │   │   ├── dataanalysis.ipynb │ ├── images/ │   ├── TAR_sample.png │   ├── TAR_mean.png │   ├── UR_sample.png │   ├── UR_mean.png │   ├── CHUVA_sample.png │   ├── CHUVA_mean.png │ ├── README.md
+ClimateInformatics/
+│
+├── data/
+│   ├── data9724.csv.gz
+│   └── variable_descriptions.csv
+│
+├── src/
+│   └── notebooks/
+│       └── dataanalysis.ipynb
+│
+├── images/
+│   ├── TAR_sample.png
+│   ├── TAR_mean.png
+│   ├── UR_sample.png
+│   ├── UR_mean.png
+│   ├── CHUVA_sample.png
+│   └── CHUVA_mean.png
+│
+└── README.md
 
 ## Usage
 
