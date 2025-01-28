@@ -42,7 +42,7 @@ ClimateInformatics/
 │   └── CHUVA_mean.png
 │
 └── README.md
-```bash
+```
 ## Usage
 
 1. Ensure all dependencies are installed.
