@@ -22,7 +22,7 @@ This project requires the following Python libraries:
 - prophet
 - ipywidgets
 - jupyter
-
+```bash
 ClimateInformatics/
 │
 ├── data/
@@ -42,7 +42,7 @@ ClimateInformatics/
 │   └── CHUVA_mean.png
 │
 └── README.md
-
+```bash
 ## Usage
 
 1. Ensure all dependencies are installed.
@@ -80,5 +80,5 @@ You can install these dependencies using pip:
 
 ```bash
 pip install pandas numpy matplotlib xlrd openpyxl scikit-learn seaborn yellowbrick statsmodels prophet ipywidgets jupyter
-
+```
 
