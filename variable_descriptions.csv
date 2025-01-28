@@ -1,0 +1,10 @@
+Variable,Description
+TAR,Air Temperature (°C)
+UR,Relative Humidity (%)
+VENTOV,Wind Speed (m/s)
+VENTOD,Wind Direction (degrees)
+RADSOLAR,Solar Radiation (W/m²)
+PAR,Photosynthetically Active Radiation (μmol/m².s)
+RADLIQ,Net Radiation (W/m²)
+NIVTANQ,Class A Tank Level (mm)
+CHUVA,"Rainfall (millimeters per square meter, mm/m²)"
